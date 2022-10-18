@@ -3,7 +3,7 @@ plugins {
     id 'org.jetbrains.kotlin.android'
     id 'kotlin-kapt'
     id 'org.jetbrains.kotlin.plugin.serialization' version '1.5.30'
-//    id 'com.google.gms.google-services'
+    id 'com.google.gms.google-services'
 
 }
 
